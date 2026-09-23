@@ -219,3 +219,6 @@ __marimo__/
 
 # Any of the .csv GIGANTIC files
 *.csv
+
+# Virtual Environment
+venv/
