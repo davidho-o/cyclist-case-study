@@ -21,7 +21,10 @@ This project represents the final case study for the [Google Data Analytics Prof
 ## 3. Process (Data Cleaning and Manipulation)
 
 - **Cleaning steps performed:**
-- **Full Script:**
+  - uniting all the data from different months
+  - getting rid of data that was considered incomplete (i.e. the station string was empty)
+  - getting rid of flawed data (i.e. the duration of the ride was negative)
+- **Full Script:** 01_process.py
 
 ## 4. Analyze
 
