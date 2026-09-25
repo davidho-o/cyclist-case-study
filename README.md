@@ -28,15 +28,18 @@ This project represents the final case study for the [Google Data Analytics Prof
 
 ## 4. Analyze
 
-> _[Note: This section will be updated after running the analysis script]_
-
-- What is the average ride length for members vs. casual riders?
-- What is the most popular day of the week for each group?
+- **What is the average ride length for members vs. casual riders?**
+  After analyzing the data, we can clearly see in the 'visualizations/mean_duration_of_courses' chart that members usually go for a bike ride which lasts around 12 minutes and the casuals' 20.
+- **What is the most popular day of the week for each group?**
+  The most popular day of the week for **members** is **Tuesday**, where we can see a **trend** that tells the story about how in the work days bikes are being more used by members, and for **casuals** it's **Saturday**, the **trend** for them suggesting they use our service in the weekends, for recreation.
 
 ## 5. Share (Visualizations)
 
-> _[Note: Exported charts and graphs will be inserted here]_
+- They can be found in the **visualizations folder**
 
 ## 6. Act (Business Recommendations)
 
-> _[Note: Top 3 actionable recommendations for the marketing department will go here]_
+After some thoughts, I came up with two possible solutions:
+
+- **Marketing campaign** which encourages people to switch from comuting to work during the week with a bike, instead of a car. This includes ads, tiktoks and some billboards.
+- Creating a **new 'middle' type of subscription** so the jump from one another wouldn't seem as big at is seems righ now. For example: following the trend, we could introduce a subscription that focuses on recreational users, including only the weekends (Friday, Saturday and Sunday)
